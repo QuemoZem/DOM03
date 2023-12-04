@@ -1,0 +1,26 @@
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
